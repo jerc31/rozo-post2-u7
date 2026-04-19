@@ -1,4 +1,4 @@
-package com.universidad.productosweb.model;
+package com.universidad.apiproductos.model;
 
 public class Producto {
 

@@ -1,10 +1,10 @@
-package com.universidad.productos_web;
+package com.universidad.apiproductos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductosWebApplicationTests {
+class ApiproductosApplicationTests {
 
 	@Test
 	void contextLoads() {

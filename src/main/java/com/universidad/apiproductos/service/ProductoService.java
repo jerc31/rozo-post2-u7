@@ -1,6 +1,6 @@
-package com.universidad.productosweb.service;
+package com.universidad.apiproductos.service;
 
-import com.universidad.productosweb.model.Producto;
+import com.universidad.apiproductos.model.Producto;
 import org.springframework.stereotype.Service;
 import java.util.*;
 
